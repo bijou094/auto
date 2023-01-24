@@ -1,9 +1,10 @@
-//import RouteCompenent from './routes/RouteCompenent'<RouteCompenent />
+import RouteCompenent from './routes/RouteCompenent'
 
 function App() {
   return (
     <div className="App">
-      
+
+      <RouteCompenent />
 
     </div>
   );
