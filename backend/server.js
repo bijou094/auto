@@ -4,6 +4,7 @@ const app = require('./app');
 
 const dotenv = require('dotenv').config();
 //la fonction normalizePort renvoie un port valide,( numéro / chaîne ) 
+
 const normalizePort = val => {
 
     const port = parseInt(val, 10);
